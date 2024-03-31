@@ -1,5 +1,7 @@
 # README
-这里是SystemKr的Malody V Cube模式插件库，用于**Malody V 6.0.0以上版本的Cube模式**，在使用前请注意检查版本是否支持。
+这里是SystemKr的**Malody V Cube模式插件库**，用于**Malody V 6.0.0及以上版本**，在使用前请注意检查版本是否支持。
+
+**此处所有插件均依赖于Malody V[内置接口](https://cbo17ty22x.feishu.cn/wiki/wikcn0YWKOokRd0fETihiH1APBe)与Lua语言实现。**
 
 ## 4-6轨互换
 ### 有什么功能？
@@ -22,3 +24,4 @@
 - 制作上下镜像、全反转插件
 
 ## 想到了再补（逃）
+

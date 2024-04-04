@@ -1,5 +1,3 @@
---Made by SystemKr
-
 PluginName='4-6轨互换'
 PluginMode=9
 PluginType=0
@@ -19,3 +17,5 @@ function Run()
 	end
 	Editor:FinishBatch()
 end
+
+--Made by SystemKr

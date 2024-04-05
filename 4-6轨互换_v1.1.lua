@@ -1,4 +1,4 @@
-PluginName='4-6-Wipe'
+PluginName='46互换-Wipe'
 PluginMode=9
 PluginType=0
 PluginRequire='6.0.0'
